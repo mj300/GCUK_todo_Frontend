@@ -23,3 +23,10 @@ For detailed explanation on how things work, check out the [documentation](https
 
 This project need web-api, you can find backend project in [WebApi](https://github.com/mj300/GCUK_Todo_WebApi)
 Just set axios base url in nuxt.config.json
+
+## Screenshots
+
+![alt text](https://github.com/mj300/todoImage/blob/master/Login.PNG)
+![alt text](https://github.com/mj300/todoImage/blob/master/Register.png)
+![alt text](https://github.com/mj300/todoImage/blob/master/Todo_List.png)
+![alt text](https://github.com/mj300/todoImage/blob/master/message.png)
