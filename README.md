@@ -19,7 +19,7 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-## Special Directories
+## Backend
 
-This project need web-api you can find backend in [WebApi](https://github.com/mj300/GCUK_Todo_WebApi)
+This project need web-api, you can find backend project in [WebApi](https://github.com/mj300/GCUK_Todo_WebApi)
 Just set axios base url in nuxt.config.json
